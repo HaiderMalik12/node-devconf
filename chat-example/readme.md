@@ -1,8 +1,8 @@
 ##Setup
 
-Make sure you have install Nodejs on your machine
+Make sure you have install Node.js on your machine
 
-##Install
+##Install Dependencies
 
 It will install all the dependencies on the chat application project
 
